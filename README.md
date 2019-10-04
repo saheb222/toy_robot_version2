@@ -1,4 +1,13 @@
 #Toy Robot Simulator - with multiple robots
+### Run application
+
+```bash
+git clone https://github.com/saheb222/toy_robot.git
+cd toy_robot_version2
+ruby main.rb
+```
+### Exit from the application
+give "q" (command) while asking for the input to exit anytime from the application
 ## Description
 
 * The application is a simulation of toy robots moving on a square tabletop, of dimensions 5 units x 5 units.
